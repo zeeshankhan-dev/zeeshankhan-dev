@@ -17,8 +17,8 @@ I'm a passionate Computer Science graduate focused on Flutter and mobile develop
 
 <p align="left">
   <a href="mailto:zeeshankhandev0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/zeeshan-khan-dev"><img src="?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://wa.me/923494678746"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/zeeshankhan-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://wa.me/923494787460"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
