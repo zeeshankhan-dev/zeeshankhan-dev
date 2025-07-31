@@ -11,8 +11,6 @@
 
 I’m a passionate Computer Science graduate with a strong focus on **Flutter development** and cross-platform mobile apps. I love transforming ideas into scalable, clean, and user-centric applications.
 
-Currently developing my **Final Year Project – SkillHub**, a platform that bridges the gap between skilled freelancers and clients.
-
 ---
 
 ### 📫 Let's Connect
