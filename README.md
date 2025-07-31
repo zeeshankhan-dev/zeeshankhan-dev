@@ -104,6 +104,14 @@ I started my programming journey during my BSCS at Gomal University (2021–2025
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeeshankhan-dev&show_icons=true&theme=radical" alt="Zeeshan's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshankhan-dev&layout=compact&theme=radical"/>
+  ## 🚀 Software Projects
+...
+
+## 📊 GitHub Stats
+...
+
+![snake gif](https://github.com/zeeshankhan-dev/zeeshankhan-dev/blob/output/github-contribution-grid-snake.svg)
+
 </p>
 
 ---
