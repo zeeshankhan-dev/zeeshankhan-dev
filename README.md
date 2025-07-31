@@ -1,29 +1,32 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Khan</h1>
-<h3 align="center">Computer Science Graduate | Flutter Enthusiast | Mobile App Developer</h3>
+<h3 align="center">🎓 Computer Science Graduate | 💙 Flutter Enthusiast | 📱 Mobile App Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Flutter+Developer;Firebase+Lover;Cross-Platform+Apps;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=480&lines=Flutter+Developer;Firebase+Lover;Cross-Platform+Apps;Clean+UI+Fanatic;Always+Learning..." alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm a passionate Computer Science graduate focused on Flutter and mobile development. I enjoy turning complex problems into beautiful, functional, and user-friendly applications. Currently working on my Final Year Project **SkillHub**, a marketplace platform connecting clients and skilled professionals.
+I’m a passionate Computer Science graduate with a strong focus on **Flutter development** and cross-platform mobile apps. I love transforming ideas into scalable, clean, and user-centric applications.
+
+Currently developing my **Final Year Project – SkillHub**, a platform that bridges the gap between skilled freelancers and clients.
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Let's Connect
 
 <p align="left">
-  <a href="mailto:xeeshan463@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/zeeshan-khan-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:xeeshan463@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/zeeshan-khan-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://wa.me/923494678746"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
 
 ### 🧑‍💻 Programming Languages
+
 <p>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -34,7 +37,8 @@ I'm a passionate Computer Science graduate focused on Flutter and mobile develop
 
 ---
 
-### 🧰 Tools & IDEs
+### 🧰 Tools & Technologies
+
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
@@ -44,74 +48,82 @@ I'm a passionate Computer Science graduate focused on Flutter and mobile develop
 
 ---
 
-### 📚 Currently Learning
-- Advanced Flutter (State Management, Clean Architecture)
-- Firebase (Auth, Firestore, Storage)
-- Backend Integration and APIs
+### 📚 Currently Exploring
+
+- 🔍 Flutter Advanced Concepts (State Management, Architecture)
+- 🔐 Firebase: Auth, Firestore, Storage
+- 🌐 REST APIs & Backend Integration
 
 ---
 
 ### 🚀 My Coding Journey
 
-I started my programming journey during my BSCS at Gomal University (2021–2025), learning **C++, HTML, CSS, and JavaScript**. Later, I discovered Flutter and found a passion for mobile development. I completed a **4-month Flutter course at NexysBerry Training & Solutions Lahore**, and currently I'm building real-world projects, including my Final Year Project **SkillHub**.
+- 🎓 **BSCS (2021–2025)** from Gomal University, Dera Ismail Khan  
+- 👨‍💻 Started with **C++, HTML, CSS, JavaScript**
+- 💙 Fell in love with **Flutter** for its expressive UI & fast development  
+- 📜 Completed a **4-month Flutter course** at NexysBerry Training & Solutions (Lahore)  
+- 🔧 Now building **real-world apps** including SkillHub
 
 ---
 
-### 💼 My Work Experience
+### 💼 Work Experience
 
-**Flutter App Developer (Academic Project – SkillHub)**  
+**Flutter Developer – SkillHub (Academic Project)**  
 📍 *Gomal University, Dera Ismail Khan*  
-📅 *Dec 2024 – Jul 2025*  
-- Led the design and development of **SkillHub**, a mobile platform connecting skilled professionals with clients.
-- Implemented features like user authentication, role-based dashboards, project posting, and in-app messaging using Flutter and Firebase.
-- Practiced industry-level development flow including Git version control, Firestore data handling, and responsive UI.
+📆 *Dec 2024 – Jul 2025*
+
+- Designed & developed the SkillHub app from scratch
+- Implemented features like role-based dashboards, messaging, project posting, and authentication
+- Worked with Flutter, Firebase Auth, Firestore, GitHub & Clean UI design
 
 ---
 
-### 🎓 Educational Achievement
+### 🎓 Education
 
-**BS Computer Science – Gomal University, Dera Ismail Khan (2021–2025)**  
-- Final Year Project: **SkillHub**  
-- Specialized in Mobile App Development with Flutter and Firebase
+**Bachelor of Science in Computer Science (BSCS)**  
+📍 Gomal University, Dera Ismail Khan  
+📅 2021–2025
 
 ---
 
 ### 📜 Courses
 
-- **4-Month Flutter Course** – NexysBerry Training & Solutions, Lahore
+- 📘 **4-Month Flutter Course**  
+  🏫 NexysBerry Training & Solutions, Lahore
 
 ---
 
-### 🗣️ Languages I Speak
+### 🌐 Languages I Speak
 
-- 🗨️ Urdu – Fluent  
-- 🗨️ English – Intermediate  
-- 🗨️ Pashto – Native  
+- 🗣️ **Urdu** – Fluent  
+- 🗣️ **English** – Intermediate  
+- 🗣️ **Pashto** – Native  
 
 ---
 
-## 💼 Software Projects
+## 💼 Projects
 
 ### 🔹 [SkillHub](https://github.com/zeeshankhan-dev/Flutter_skillhub_app)
-A freelance services platform connecting clients with skilled professionals. Includes role-based authentication, project posting, proposals, and dashboards.
+A Flutter-based freelance marketplace app that connects professionals with clients.
 
-- **Tech Stack:** Flutter, Firebase Auth, Cloud Firestore
-- **Status:** Final Year Project (2024–2025)
+- ✨ **Features:** Auth, role-based access, real-time proposals, dashboards
+- 🔧 **Tech Stack:** Flutter, Firebase Auth, Firestore
+- 📱 **Status:** Final Year Project (2024–2025)
 
 ---
 
 ### 🔹 [Flutter Portfolio](https://github.com/zeeshankhan-dev/flutter_portfolio)
-A personal Flutter portfolio app showcasing my skills, projects, and contact information in an interactive and mobile-friendly layout.
+A sleek mobile portfolio app showcasing my work, skills, and contact info.
 
-- **Tech Stack:** Flutter
-- **Status:** In Progress (Learning & Practicing)
+- 🔧 **Tech Stack:** Flutter
+- 🛠️ **Status:** In Progress (Learning project)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeeshankhan-dev&show_icons=true&theme=radical" alt="Zeeshan's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zeeshankhan-dev&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshankhan-dev&layout=compact&theme=radical"/>
 </p>
 
@@ -125,7 +137,7 @@ A personal Flutter portfolio app showcasing my skills, projects, and contact inf
 
 ---
 
-### 📈 GitHub Contribution Graph
+### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshankhan-dev&theme=react-dark" />
@@ -133,14 +145,13 @@ A personal Flutter portfolio app showcasing my skills, projects, and contact inf
 
 ---
 
-
 ### 💡 Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-### 😄 Joke of the Day
+### 😄 Dev Humor
 
 ![Joke](https://readme-jokes.vercel.app/api?hideBorder)
 
