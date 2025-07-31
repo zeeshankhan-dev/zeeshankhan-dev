@@ -124,15 +124,6 @@ I started my programming journey during my BSCS at Gomal University (2021–2025
 
 ---
 
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/zeeshankhan-dev/zeeshankhan-dev/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> ⚠️ Make sure your repo includes the GitHub Action workflow to generate the snake. See [Platane/snk](https://github.com/Platane/snk) for setup instructions.
-
----
 
 ### 💡 Quote of the Day
 
