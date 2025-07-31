@@ -90,12 +90,21 @@ I started my programming journey during my BSCS at Gomal University (2021–2025
 
 ---
 
-### 🧪 Software Projects
+## 💼 Software Projects
 
-#### 📱 [SkillHub – Final Year Project](https://github.com/zeeshankhan-dev/Flutter_skillhub_app)
-- A Flutter-based freelance marketplace app connecting clients with skilled professionals.
-- 🔧 **Tech Stack:** Flutter, Firebase, Firestore, Firebase Auth, Dart
-- Features: Role-based auth, real-time proposals, project management, and more.
+### 🔹 [SkillHub](https://github.com/zeeshankhan-dev/Flutter_skillhub_app)
+A freelance services platform connecting clients with skilled professionals. Includes role-based authentication, project posting, proposals, and dashboards.
+
+- **Tech Stack:** Flutter, Firebase Auth, Cloud Firestore
+- **Status:** Final Year Project (2024–2025)
+
+---
+
+### 🔹 [Flutter Portfolio](https://github.com/zeeshankhan-dev/flutter_portfolio)
+A personal Flutter portfolio app showcasing my skills, projects, and contact information in an interactive and mobile-friendly layout.
+
+- **Tech Stack:** Flutter
+- **Status:** In Progress (Learning & Practicing)
 
 ---
 
