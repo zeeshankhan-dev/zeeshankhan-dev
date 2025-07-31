@@ -104,23 +104,33 @@ I started my programming journey during my BSCS at Gomal University (2021–2025
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zeeshankhan-dev&show_icons=true&theme=radical" alt="Zeeshan's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshankhan-dev&layout=compact&theme=radical"/>
-  ## 🚀 Software Projects
-...
+</p>
 
-## 📊 GitHub Stats
-...
+---
 
-![snake gif](https://github.com/zeeshankhan-dev/zeeshankhan-dev/blob/output/github-contribution-grid-snake.svg)
+### 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zeeshankhan-dev&theme=algolia&no-frame=true&row=1&margin-w=15" />
+</p>
+
+---
+
+### 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeeshankhan-dev&theme=react-dark" />
 </p>
 
 ---
 
 ### 🐍 GitHub Contribution Snake
 
-![Snake animation](https://github.com/zeeshankhan-dev/zeeshankhan-dev/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/zeeshankhan-dev/zeeshankhan-dev/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-> ⚠️ Make sure your repository has a `workflow` to generate this animation correctly. [See GitHub Snake Generator Instructions](https://github.com/Platane/snk)
+> ⚠️ Make sure your repo includes the GitHub Action workflow to generate the snake. See [Platane/snk](https://github.com/Platane/snk) for setup instructions.
 
 ---
 
@@ -135,4 +145,3 @@ I started my programming journey during my BSCS at Gomal University (2021–2025
 ![Joke](https://readme-jokes.vercel.app/api?hideBorder)
 
 ---
-
